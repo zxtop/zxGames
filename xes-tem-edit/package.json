@@ -1,0 +1,40 @@
+{
+  "_from": "xes-tem-edit@1.0.65",
+  "_id": "xes-tem-edit@1.0.21",
+  "_inBundle": false,
+  "_integrity": "sha512-CwVcfg6nVMMbvu1CmsgHbu/yAJg1VFZ7KU/bBIsHFtEeToYK0sIea0drha7Zgj51KEQcEPyz2uxTq9P3tVJQhA==",
+  "_location": "/xes-tem-edit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "xes-tem-edit@^1.0.20",
+    "name": "xes-tem-edit",
+    "escapedName": "xes-tem-edit",
+    "rawSpec": "^1.0.20",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.20"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/xes-tem-edit/download/xes-tem-edit-1.0.65.tgz",
+  "_shasum": "456870702124891f13700021331cc910dfdd9e70",
+  "_spec": "xes-tem-edit@^1.0.20",
+  "_where": "/Users/zhangxin/D/code/xes/text/math-select-template",
+  "author": {
+    "name": "zhangxin"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "xes-tem-edit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.65",
+  "__npminstall_done": "Tue May 21 2019 12:58:39 GMT+0800 (GMT+08:00)"
+}
